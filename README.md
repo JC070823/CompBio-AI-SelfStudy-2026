@@ -64,5 +64,3 @@ Goal: Build strong Python + Machine Learning + PyTorch skills and complete 3 sol
 - Hugging Face (LLMs & RAG)
 
 ---
-
-## Repository Structure (Planned)
