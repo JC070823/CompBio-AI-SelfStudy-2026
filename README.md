@@ -64,3 +64,7 @@ Goal: Build strong Python + Machine Learning + PyTorch skills and complete 3 sol
 - Hugging Face (LLMs & RAG)
 
 ---
+
+Update 4/4/2026:
+### Completed
+- [Rosalind Python Village Solutions](Phase1_Python_BioData/Rosalind_Python_Village_Solutions.ipynb) (6 problems)
